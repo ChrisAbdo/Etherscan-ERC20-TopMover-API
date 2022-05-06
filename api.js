@@ -60,7 +60,6 @@ sources.forEach(token => {
                     holders: holders_clean
                 })
             })
-
         })
 })
 
